@@ -37,3 +37,6 @@ var name = link.dataset.name;   // undefined
 ```javascript
 var field_id = $('#link_id').attr('data-field-id');     // field_1
 ```
+
+## 參考資料
+* [javascript - dataset vs .data - Difference? - Stack Overflow](https://stackoverflow.com/questions/23596751/dataset-vs-data-difference)
