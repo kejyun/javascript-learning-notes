@@ -3,5 +3,5 @@
 ## 取得 radio / checkbox 表單
 
 ```javascript
-var  = $('input[name=status]:checked');
+var $RadioSelectDom  = $('input[name=status]:checked');
 ```
