@@ -73,8 +73,11 @@ function onIntersection(imagesEntries) {
 
 ## 參考資料
 * [Intersection Observer API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
+* [Intersection Observer API - Web API 接口 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/API/Intersection_Observer_API)
 * [IntersectionObserver/polyfill at master · w3c/IntersectionObserver](https://github.com/w3c/IntersectionObserver/tree/master/polyfill)
 * [Lazy loading images using Intersection Observer](https://deanhume.com/lazy-loading-images-using-intersection-observer/)
 * [How to lazy-load images to improve loading time and save bandwidth - José M. Pérez](https://jmperezperez.com/lazy-loading-images/)
 * [Five Techniques to Lazy Load Images for Website Performance — SitePoint](https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/)
 * [IntersectionObserver API 使用教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2016/11/intersectionobserver_api.html)
+* [How to lazy-load images to improve loading time and save bandwidth - José M. Pérez](https://jmperezperez.com/lazy-loading-images/)
+* [Lazy Loading Images and Video  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/)
