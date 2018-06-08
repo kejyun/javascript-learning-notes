@@ -6,5 +6,6 @@
     * [取得 dom dataset](attribute/attribute-dom-dataset.md)
 * [事件](event/event-README.md)
     * [關閉瀏覽器或頁籤](event/event-close-browser-or-browser-tab.md)
+* [XHR](xhr/xhr-README.md)
 * [圖片](image/image-README.md)
     * [Lazy loading](image/image-lazy-loading.md)
