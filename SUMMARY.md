@@ -1,6 +1,8 @@
 # 摘要
 
 * [介紹](README.md)
+* [字串](string/string-README.md)
+    * [字串取代](string/string-replace.md)
 * [表單](form/form-README.md)
 * [屬性](attribute/attribute-README.md)
     * [取得 dom dataset](attribute/attribute-dom-dataset.md)
