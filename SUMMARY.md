@@ -3,6 +3,7 @@
 * [介紹](README.md)
 * [字串](string/string-README.md)
     * [字串取代](string/string-replace.md)
+* [陣列](array/array-README.md)
 * [表單](form/form-README.md)
 * [屬性](attribute/attribute-README.md)
     * [取得 dom dataset](attribute/attribute-dom-dataset.md)
@@ -12,3 +13,5 @@
 * [debug](debug/debug-README.md)
 * [圖片](image/image-README.md)
     * [Lazy loading](image/image-lazy-loading.md)
+* [小技巧](tips/tips-README.md)
+    * [js 檔案載入](tips/tips-dynamically-load-js-file.md)
